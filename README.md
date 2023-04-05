@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shujaan Azhar</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Aspiring Machine Learning and Data Science Professional</h3>
 
 - 🔭 I’m currently working on **Dog Breed Detection Model**
 
