@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shujaan Azhar</h1>
 <h3 align="center">Aspiring Machine Learning and Data Science Professional</h3>
 
-- 🔭 I’m currently working on **Dog Breed Detection Model**
+- 🔭 I’m currently working on **Urdu Proverbs to English Translational Model**
 
-- 🌱 I’m currently learning **TensorFlow and Neural Networks**
+- 🌱 I’m currently learning **Natural Language Processing and Computer Vision**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
 
