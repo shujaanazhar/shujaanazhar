@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shujaan-azhar-7bb330219/](https://www.linkedin.com/in/shujaan-azhar-7bb330219/)
 
-- 📫 How to reach me **shujaan.azhar@gmail.com**
+- 📫 Please reach me on **shujaan.azhar@gmail.com**
 
 - ⚡ Fun fact **I love to play basketball**
 
