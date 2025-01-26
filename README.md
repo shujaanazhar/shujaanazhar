@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shujaan Azhar</h1>
-<h3 align="center">Aspiring Machine Learning and Data Science Professional</h3>
+<h3 align="center">AI Engineer</h3>
 
-- 🔭 I’m currently working on **Urdu Proverbs to English Translational Model**
+- 🔭 I’m currently working at **Taleemabad**
 
 - 🌱 I’m currently learning **Natural Language Processing and Computer Vision**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Artificial Intelligence Projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shujaan-azhar-7bb330219/](https://www.linkedin.com/in/shujaan-azhar-7bb330219/)
 
-- 📫 Please reach me on **shujaan.azhar@gmail.com**
+- 📫 Please reach me at **shujaan.azhar@gmail.com**
 
 - ⚡ Fun fact **I love to play basketball**
 
